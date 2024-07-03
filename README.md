@@ -1,8 +1,8 @@
 ## Portfolio-Website
 Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="[https://SireejaaUppal.netlify.app/](https://siree16.github.io/Portfolio-Website/)" target="_blank">**Visit Now** 🚀</a>
-
+[<a href="[https://SireejaaUppal.netlify.app/](https://siree16.github.io/Portfolio-Website/)" target="_blank">**Visit Now** 🚀</a>
+](https://siree16.github.io/Portfolio-Website/)
 
 ## 📌 Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Sireejaa-Uppal/Portfolio-Website/search?l=html)&nbsp;
